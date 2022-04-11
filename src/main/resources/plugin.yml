@@ -1,0 +1,6 @@
+name: LumberLib
+version: '${version}'
+main: com.mugames.lumberlib.LumberLib
+authors: [ Lede, R, Uni ]
+description: Simple library for spigot
+website: https://github.com/mu-game-development/LumberLib
